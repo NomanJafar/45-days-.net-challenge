@@ -1,0 +1,8 @@
+D:\practice\dotnet\practice app\bin\Debug\practice app.exe.config
+D:\practice\dotnet\practice app\bin\Debug\practice app.exe
+D:\practice\dotnet\practice app\bin\Debug\practice app.pdb
+D:\practice\dotnet\practice app\obj\Debug\practice app.csproj.AssemblyReference.cache
+D:\practice\dotnet\practice app\obj\Debug\practice app.csproj.SuggestedBindingRedirects.cache
+D:\practice\dotnet\practice app\obj\Debug\practice app.csproj.CoreCompileInputs.cache
+D:\practice\dotnet\practice app\obj\Debug\practice app.exe
+D:\practice\dotnet\practice app\obj\Debug\practice app.pdb

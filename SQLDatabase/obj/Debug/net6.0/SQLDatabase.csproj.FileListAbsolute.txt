@@ -1,0 +1,12 @@
+D:\practice\dotnet\SQLDatabase\bin\Debug\net6.0\SQLDatabase.deps.json
+D:\practice\dotnet\SQLDatabase\bin\Debug\net6.0\SQLDatabase.dll
+D:\practice\dotnet\SQLDatabase\bin\Debug\net6.0\SQLDatabase.pdb
+D:\practice\dotnet\SQLDatabase\obj\Debug\net6.0\SQLDatabase.csproj.AssemblyReference.cache
+D:\practice\dotnet\SQLDatabase\obj\Debug\net6.0\SQLDatabase.GeneratedMSBuildEditorConfig.editorconfig
+D:\practice\dotnet\SQLDatabase\obj\Debug\net6.0\SQLDatabase.AssemblyInfoInputs.cache
+D:\practice\dotnet\SQLDatabase\obj\Debug\net6.0\SQLDatabase.AssemblyInfo.cs
+D:\practice\dotnet\SQLDatabase\obj\Debug\net6.0\SQLDatabase.csproj.CoreCompileInputs.cache
+D:\practice\dotnet\SQLDatabase\obj\Debug\net6.0\SQLDatabase.dll
+D:\practice\dotnet\SQLDatabase\obj\Debug\net6.0\refint\SQLDatabase.dll
+D:\practice\dotnet\SQLDatabase\obj\Debug\net6.0\SQLDatabase.pdb
+D:\practice\dotnet\SQLDatabase\obj\Debug\net6.0\ref\SQLDatabase.dll
